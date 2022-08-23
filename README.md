@@ -1,6 +1,7 @@
 Skill up de Alkemy
 
-creado por
-thomas
-santi
-naza
+creado por:
+
+- Thomas Barreto
+- Santiago Rivarola
+- Nazareno Gonzalez
